@@ -10,8 +10,7 @@ EXTRACTION_QUERIES = {
     ("shop", "*"): "shops_all.geojson",
 }
 
-# PBF_PATH = "uk-latest.osm.pbf"
-PBF_PATH = "/Users/charliekingsland/Downloads/united-kingdom-260117.osm.pbf"
+PBF_PATH = "uk-latest.osm.pbf"
 
 print("[INFO] ===============================")
 print("[INFO] OSM to GeoJSON Extraction Script")
